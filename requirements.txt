@@ -1,0 +1,13 @@
+# Pinned to the versions the pipeline was developed and validated against.
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+xgboost==2.1.4
+pyod==2.0.5
+tensorflow==2.18.0
+shap==0.46.0
+scipy==1.13.1
+matplotlib==3.9.2
+plotly==5.24.1
+joblib==1.4.2
+ipywidgets==8.1.5
